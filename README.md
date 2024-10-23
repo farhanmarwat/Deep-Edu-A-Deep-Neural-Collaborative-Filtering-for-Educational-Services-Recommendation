@@ -26,3 +26,7 @@ If you find this work useful for your research, please cite:
   pages={110915-110928},
   keywords={Recommender systems;Neural networks;Deep learning;Quality of service;Computational modeling;Computer architecture;Deep learning;services;deep neural collaborative filtering;educational;services recommendation},
   doi={10.1109/ACCESS.2020.3002544}}
+
+## License
+
+Copyright (c) 2024 Ali Jamali. Released under the MIT License. See [LICENSE](LICENSE) for details.
