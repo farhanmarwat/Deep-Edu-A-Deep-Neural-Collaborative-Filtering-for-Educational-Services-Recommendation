@@ -25,6 +25,6 @@ If you find this work useful for your research, please cite:
 
 ## Environment Setup and Installation
 
-`python: 3.11`
+python: 3.11`
 
 **NOTE: Latest PyTorch requires Python 3.8 or later.**
