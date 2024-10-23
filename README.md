@@ -8,13 +8,7 @@ Contributions to this project are welcome! If you'd like to collaborate, please 
 Citation
 If you use this work in your research, please cite:
 
-css
-Copy code
-@article{deepedu2024,
-  title={Deep-Edu: A Deep Neural Collaborative Filtering for Educational Services Recommendation},
-  author={Your Name and Co-authors},
-  journal={Journal Name},
-  year={2024},
-  volume={XX},
-  pages={XX-XX},
-}
+### Citation
+If you use this code or dataset in your research, please cite our work:
+
+
