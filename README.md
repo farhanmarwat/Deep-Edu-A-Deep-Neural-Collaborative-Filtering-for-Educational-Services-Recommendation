@@ -25,3 +25,11 @@ If you use this code or dataset in your research, please cite our work:
 
 
 
+
+<br>
+
+## **Environment Setup and Installation**
+
+`python: 3.11`
+
+**NOTE: Latest PyTorch requires Python 3.8 or later.**
