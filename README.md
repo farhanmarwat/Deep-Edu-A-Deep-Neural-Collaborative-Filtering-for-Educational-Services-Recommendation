@@ -1,3 +1,4 @@
+### [3D-RCNet:Learning from Transformer to Build a 3D Relational ConvNet for Hyperspectral Image Classification](https://arxiv.org/abs/2408.13728)
 Welcome to the repository for Deep-Edu, a deep learning-based recommendation system designed to enhance the delivery of educational services. This repository contains code and resources from the paper:
 Datasets
 We recommend using publicly available datasets for educational services or creating your own datasets. You can follow the data/ folder for guidelines on preprocessing and loading data.
