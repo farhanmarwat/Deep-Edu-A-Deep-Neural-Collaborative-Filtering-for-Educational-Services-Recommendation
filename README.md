@@ -3,8 +3,6 @@ Welcome to the repository for Deep-Edu, a deep learning-based recommendation sys
 Datasets
 We recommend using publicly available datasets for educational services or creating your own datasets. You can follow the data/ folder for guidelines on preprocessing and loading data.
 
-Contributions
-Contributions to this project are welcome! If you'd like to collaborate, please fork the repository, make your changes, and submit a pull request. Be sure to adhere to the coding standards and document your contributions.
 
 ## Environment Setup and Installation
 
