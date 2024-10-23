@@ -11,4 +11,17 @@ If you use this work in your research, please cite:
 ### Citation
 If you use this code or dataset in your research, please cite our work:
 
+**BibTeX:**
+@ARTICLE{9117112,
+  author={Ullah, Farhan and Zhang, Bofeng and Khan, Rehan Ullah and Chung, Tae-Sun and Attique, Muhammad and Khan, Khalil and Khediri, Salim El and Jan, Sadeeq},
+  journal={IEEE Access}, 
+  title={Deep Edu: A Deep Neural Collaborative Filtering for Educational Services Recommendation}, 
+  year={2020},
+  volume={8},
+  number={},
+  pages={110915-110928},
+  keywords={Recommender systems;Neural networks;Deep learning;Quality of service;Computational modeling;Computer architecture;Deep learning;services;deep neural collaborative filtering;educational;services recommendation},
+  doi={10.1109/ACCESS.2020.3002544}}
+
+
 
