@@ -27,4 +27,4 @@ If you find this work useful for your research, please cite:
 
 python: 3.11`
 
-**NOTE: Latest PyTorch requires Python 3.8 or later.**
+## NOTE: Latest PyTorch requires Python 3.8 or later.**
