@@ -24,10 +24,6 @@ If you find this work useful for your research, please cite:
   doi={10.1109/ACCESS.2020.3002544}}
 
 
-
-
-<br>
-
 ## **Environment Setup and Installation**
 
 `python: 3.11`
