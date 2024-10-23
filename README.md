@@ -9,10 +9,9 @@ Contributions to this project are welcome! If you'd like to collaborate, please 
 Citation
 If you use this work in your research, please cite:
 
-### Citation
-If you use this code or dataset in your research, please cite our work:
-
-**BibTeX:**
+## Citation
+If you find this work useful for your research, please cite:
+```
 @ARTICLE{9117112,
   author={Ullah, Farhan and Zhang, Bofeng and Khan, Rehan Ullah and Chung, Tae-Sun and Attique, Muhammad and Khan, Khalil and Khediri, Salim El and Jan, Sadeeq},
   journal={IEEE Access}, 
