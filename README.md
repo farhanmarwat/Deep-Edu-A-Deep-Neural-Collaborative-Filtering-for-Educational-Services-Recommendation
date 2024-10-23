@@ -8,7 +8,7 @@ We recommend using publicly available datasets for educational services or creat
 
 python: 3.11`
 
-## NOTE: Latest PyTorch requires Python 3.8 or later.**
+NOTE: Latest PyTorch requires Python 3.8 or later.**
 
 Citation
 If you use this work in your research, please cite:
