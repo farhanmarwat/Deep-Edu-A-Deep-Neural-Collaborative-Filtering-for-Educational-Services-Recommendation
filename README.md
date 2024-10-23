@@ -2,7 +2,7 @@
 Welcome to the repository for Deep-Edu, a deep learning-based recommendation system designed to enhance the delivery of educational services. This repository contains code and resources from the paper:
 Datasets
 We recommend using publicly available datasets for educational services or creating your own datasets. You can follow the data/ folder for guidelines on preprocessing and loading data.
-https://github.com/farhanmarwat/Deep-Edu-A-Deep-Neural-Collaborative-Filtering-for-Educational-Services-Recommendation/blob/main/access-gagraphic-3002544.jpg
+<img src="deep edu.jpg"/>
 
 ## Environment Setup and Installation
 
