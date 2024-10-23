@@ -8,7 +8,7 @@ Contributions to this project are welcome! If you'd like to collaborate, please 
 
 Citation
 If you use this work in your research, please cite:
-## new
+
 ## Citation
 If you find this work useful for your research, please cite:
 ```
